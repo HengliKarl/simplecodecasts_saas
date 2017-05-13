@@ -45,6 +45,7 @@ gem 'devise', '~> 3.4.1'
 # Use for handling payments
 gem 'stripe', '~> 1.16.1'
 
+# Use figaro to hide secret key
 gem 'figaro', '~> 1.0.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
